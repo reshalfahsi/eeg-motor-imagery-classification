@@ -34,11 +34,11 @@ Test | 76.4% | 0.856
 
 Here, the qualitative performance of the model is presented.
 
-<p align="center"> <img src="https://github.com/reshalfahsi/eeg-motor-imagery-classification/blob/master/assets/true_right.png" alt="true_right" > Correct prediction on the right arm class. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/eeg-motor-imagery-classification/blob/master/assets/true_right.png" alt="true_right" > <br /> Correct prediction on the right arm class. </p>
 
-<p align="center"> <img src="https://github.com/reshalfahsi/eeg-motor-imagery-classification/blob/master/assets/true_left.png" alt="true_left" > Correct prediction on the left arm class. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/eeg-motor-imagery-classification/blob/master/assets/true_left.png" alt="true_left" > <br /> Correct prediction on the left arm class. </p>
 
-<p align="center"> <img src="https://github.com/reshalfahsi/eeg-motor-imagery-classification/blob/master/assets/false_right.png" alt="false_right" > False prediction on the left arm class. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/eeg-motor-imagery-classification/blob/master/assets/false_right.png" alt="false_right" > <br /> False prediction on the left arm class. </p>
 
 ## Credit
 
