@@ -1,5 +1,10 @@
 # EEG Motor Imagery Classification Using CNN, Transformer, and MLP
 
+ <div align="center">
+    <a href="https://colab.research.google.com/github/reshalfahsi/eeg-motor-imagery-classification/blob/master/EEG_Motor_Imagery_Classification_Using_CNN_Transformer_and_MLP.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"></a>
+    <br />
+ </div>
+
 
  <p align="center"> <img src="https://github.com/reshalfahsi/eeg-motor-imagery-classification/blob/master/assets/cnn-transformer-mlp-white.png" alt="CNN-Transformer-MLP" > An illustration of the CNN-Transformer-MLP model. </p>
 
