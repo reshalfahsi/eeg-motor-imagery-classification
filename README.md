@@ -48,6 +48,7 @@ Here, the qualitative performance of the model is presented.
 ## Credit
 
 - [EEG Motor Movement/Imagery Dataset](https://physionet.org/content/eegmmidb/1.0.0/)
+- [Electroencephalogram Signal Classification for action identification](https://keras.io/examples/timeseries/eeg_signal_classification/)
 - [Timeseries Classification With a Transformer Model](https://keras.io/examples/timeseries/timeseries_classification_transformer/)
 - [EEG Classification](https://github.com/DavidSilveraGabriel/EEG-classification/blob/master/Using_mne_and_braindecode.ipynb)
 - [Loading EEG Data](https://neuro.inf.unibe.ch/AlgorithmsNeuroscience/Tutorial_files/DataLoading.html)
