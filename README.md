@@ -45,6 +45,20 @@ Here, the qualitative performance of the model is presented.
 
 <p align="center"> <img src="https://github.com/reshalfahsi/eeg-motor-imagery-classification/blob/master/assets/false_right.png" alt="false_right" > <br /> False prediction on the left arm class. </p>
 
+
+## Citation
+
+If you think this repository is helpful for your research, you may cite it:
+
+```
+@misc{=EEGResha,
+      title={EEG Motor Imagery Classification Using CNN, Transformer, and MLP.},
+      author={Al-Fahsi, Resha Dwika Hefni},
+      howpublished = {\url{https://github.com/reshalfahsi/eeg-motor-imagery-classification}},
+      year={2023}
+}
+```
+
 ## Credit
 
 - [EEG Motor Movement/Imagery Dataset](https://physionet.org/content/eegmmidb/1.0.0/)
