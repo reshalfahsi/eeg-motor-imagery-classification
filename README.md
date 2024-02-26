@@ -51,7 +51,7 @@ Here, the qualitative performance of the model is presented.
 If you think this repository is helpful for your research, you may cite it:
 
 ```
-@misc{=EEGResha,
+@misc{=EEGAl-Fahsi,
       title={EEG Motor Imagery Classification Using CNN, Transformer, and MLP.},
       author={Al-Fahsi, Resha Dwika Hefni},
       howpublished = {\url{https://github.com/reshalfahsi/eeg-motor-imagery-classification}},
