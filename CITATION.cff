@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: If you think this repository is helpful for your research, you may cite it:
-title: EEG Motor Imagery Classification Using CNN, Transformer, and MLP
+title: "EEG Motor Imagery Classification Using CNN, Transformer, and MLP"
 authors:
   - family-names: Al-Fahsi
     given-names: Resha Dwika Hefni
